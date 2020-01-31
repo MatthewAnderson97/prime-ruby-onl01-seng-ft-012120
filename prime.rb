@@ -1,1 +1,3 @@
-def prime(number)# Add  code here!
+def prime?(number)
+  i = 0
+  #Add  code here!
